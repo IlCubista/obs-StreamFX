@@ -151,3 +151,4 @@ These options are only available in CI-Style mode.
   Enable to replace the PACKAGE_ZIP target with a target that generates a single `.obs` file instead.
 
 </details>
+
